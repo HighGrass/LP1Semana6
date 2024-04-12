@@ -5,7 +5,7 @@ namespace ColorSpheres
 {
     class Sphere
     {
-        Color cor;
+        private readonly Color cor;
         float raio;
         int hit_times;
 
